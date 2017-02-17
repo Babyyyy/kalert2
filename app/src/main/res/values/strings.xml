@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- all my strings -->
+    <string name="app_name">Kalert</string>
+    <string name="kalert">KALERT</string>
+    <string name="que"><u>Does the road have a tar road?</u></string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="next">next</string>
+
+    <!-- for main activity 2 -->
+    <string name="pot">pot holes</string>
+    <string name="quee"><u>When did you start noticing the pot hole?</u></string>
+    <string name="justNow">Recently</string>
+    <string name="notNow">Over 7 days ago</string>
+    <string name="tapMe">Tap me to get your location</string>
+
+    <string name="done">done</string>
+
+    <!-- for main activity 4 -->
+    <string name="street">street lights</string>
+    <string name="ab"><u>When did you start noticing that the street lights are not working?</u></string>
+    <string name="now">Recently</string>
+    <string name="nNow">Over 7 days ago</string>
+    <string name="tapMee">Tap me to get your location</string>
+
+    <string name="qu"><u>Does the street lights exist?</u></string>
+    <string name="yess">yes</string>
+    <string name="noo">no</string>
+
+    <!-- for main activity 5 -->
+    <string name="signs">Road signs</string>
+    <string name="rs"><u>Does the road signs exist?</u></string>
+    <string name="ya">yes</string>
+    <string name="na">no</string>
+
+    <string name="abb"><u>When did you start noticing that the road sign was missing?</u></string>
+    <string name="nowww">Recently</string>
+    <string name="nNowww">Over 7 days ago</string>
+
+
+    <!-- check Spinners in main activity xml -->
+    <string-array name="enquiry">
+        <item>Select the problem to report</item>
+        <item>Pot Holes</item>
+        <item>Street lights</item>
+        <item>Road signs</item>
+    </string-array>
+</resources>
